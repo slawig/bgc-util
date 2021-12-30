@@ -9,14 +9,14 @@ with open("README.md", mode='r', encoding='utf-8') as fh:
 
 #Setup
 setuptools.setup(
-    name = 'metos3dutil',
+    name = 'dutil',
     version = '0.0.1',
     author = 'Markus Pfeil',
     author_email = 'mpf@informatik.uni-kiel.de',
     description = 'Util functions for the simulation with Metos3d',
     long_description = long_description,
     long_description_content_type = 'text/markdown',
-    url = 'https://github.com/slawig/bgc-ann/tree/master/util',
+    url = 'https://github.com/slawig/bgc-util/tree/master/util',
     license='AGPL',
     packages = setuptools.find_packages(),
     classifiers=[

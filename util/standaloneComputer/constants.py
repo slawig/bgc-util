@@ -6,6 +6,6 @@ import os
 
 #Default parameter
 DATA_PATH = os.path.join('/home', 'mpf', 'Dokumente', 'metos3d')
-PYTHON_PATH = os.path.join('/home', 'mpf', 'Dokumente', 'Python', 'bgc-ann')
+PYTHON_PATH = os.path.join('/home', 'mpf', 'Dokumente', 'Python')
 FIGURE_PATH = os.path.join('/home', 'mpf', 'Dokumente', 'Figures')
 
